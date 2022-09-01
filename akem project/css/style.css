@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.carouselitem img{
+    width: 100%;
+    height: 95vh;
+}
+
+.carousel-slide img{
+    width: 100%;
+    height: 95vh;
+}
+.Loginpage{
+    background-color: gray;
+}
+
+.login{
+    border: 20px solid gainsboro;
+    text-align: center;
+    float: left;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+}
+.signup{
+    border: 20px solid gainsboro;
+    text-align: center;
+    float: right;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+}
+.change{
+    border: 20px solid orange;
+    text-align: center;
+    float: left;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+}
+.range{
+    border: 20px solid orange;
+    text-align: center;
+    float: right;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+}
+.php{
+    background-color: aquamarine;
+}
+.container-fluid{
+    background-color: grey;
+}
+.paragraph{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    color: solid black;
+}
+.myorder{
+    border: 2px solid orange;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    text-align: center;
+    padding: 20px;
+    background-color: orange;
+}
+.checkout{
+    padding: 0px;
+    border: 2px solid orange;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    text-align: center;
+    padding: 20px;
+    background-color: orange;
+    
+}
+.order{
+       float: right;
+       width: 677px;
+       text-align: center;
+       background-color: grey;
+}
+.check{
+       float: left; 
+       width: 677px;
+       text-align: center; 
+       background-color: grey;    
+}
+.about{
+    float: left;
+    text-align: left;
+    background-color: orange;
+    width: 454.0px;
+}
+.contact{
+    float: right;
+    text-align: left;
+    background-color: orange;
+    width: 450px;
+}
+.disclaimer{
+    float: right;
+    text-align: left;
+    background-color: orange;
+    width: 450px;
+}
+.term{
+    float: left;
+    text-align: left;
+    background-color: orange;
+    width: 450px;
+}
+.privacy{
+    float: right;
+    text-align: left;
+    background-color: orange;
+    width: 450px;
+}
+.security{
+    float: left;
+    text-align: left;
+    background-color: orange;
+    width: 454.0px;
+}
+.us{
+    color: white;
+}
+.secure{
+    color: black;
+}
+.deposit{
+    border: 20px solid wheat;
+    text-align: center;
+    float: right;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+    color: black;
+}
+.goods{
+    border: 20px solid wheat;
+    text-align: center;
+    float: left;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+    color: black;
+}
+.good{
+    color: brown;
+}
+.body{
+    background-color: wheat;
+}
+.las{
+    text-align: center;
+}
+.details{
+    text-align: center;
+}
+.raw{
+    border: 20px solid fuchsia;
+    text-align: center;
+    float: left;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+    color: black;
+}
+.war{
+    border: 20px solid fuchsia;
+    text-align: center;
+    float: right;
+    width: 677px;
+    border-radius: 20px;
+    padding: 2px;
+    color: black;
+}
