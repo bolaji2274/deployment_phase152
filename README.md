@@ -25,6 +25,6 @@ Through this e-commerce website
   * Oladehinde Babatunde Lateef
 * Deployment & Maintenance
 * * Osuntola Hammed Bolaji
-  * Ismahil AbdulRahmon
+  * Ismaheel AbdulRahmon
 
 
